@@ -4,12 +4,12 @@ This project was submitted as a requirement for the Industrial Engineering cours
 
 ## Features
 
-- Navigate the Millenium Falcon to destroy TIE Fighters and asteroids.
+- Navigate the Millenium Falcon to destroy TIE Fighters and avoid asteroids.
 - Earn points for each enemy destroyed.
 - Challenge yourself with increasing difficulty levels.
 - Compete for the highest score and see your rank in the leaderboard.
 
-## Screenshots
+## Screenshot
 
 ![Gameplay Screenshot](./assets/gameplay.png)
 
@@ -33,4 +33,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 Sound effects obtained from SoundBible.
+
 GIFs and images from the Star Wars universe.
