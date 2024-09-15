@@ -1,16 +1,8 @@
-.nav-bar {
-  opacity: 0.9;
+a.navbar-brand{
+  font-size: 1.1rem;
 }
 
-.nav-title {
-  font-size: large;
-}
-
-.title {
-  padding-top: 130px;
-}
-
-.description{
+.description {
   margin-top: 12px;
   margin-left: 12px;
   margin-right: 12px;
@@ -23,11 +15,11 @@
 }
 
 @media (min-width: 768px) {
-  .title {
-    padding-top: 110px;
+  a.navbar-brand{
+    font-size: 1.25rem;
   }
 
-  .description{
+  .description {
     margin-top: 12px;
     margin-left: 72px;
     margin-right: 72px;
